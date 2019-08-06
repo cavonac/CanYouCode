@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanYouCode", "CanYouCode\CanYouCode.csproj", "{67DFF0F1-7521-4C6D-AD65-70385C620D50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CanYouCodeTestProject", "CanYouCodeTestProject\CanYouCodeTestProject.csproj", "{AEB4A33B-F798-42D1-8C46-FEBDFE00085E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DFF0F1-7521-4C6D-AD65-70385C620D50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DFF0F1-7521-4C6D-AD65-70385C620D50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DFF0F1-7521-4C6D-AD65-70385C620D50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DFF0F1-7521-4C6D-AD65-70385C620D50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEB4A33B-F798-42D1-8C46-FEBDFE00085E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEB4A33B-F798-42D1-8C46-FEBDFE00085E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEB4A33B-F798-42D1-8C46-FEBDFE00085E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEB4A33B-F798-42D1-8C46-FEBDFE00085E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
